@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gnero18
 - 👀 I’m interested in ...Tech
-- 🌱 I’m currently learning ...UI/UX
+- 🌱 I’m currently learning ...UI/UX and Backend development
 - 💞️ I’m looking to collaborate on ...any platform
 - 📫 How to reach me ...08067217961 or okikieoghenero@gmail.com
 
